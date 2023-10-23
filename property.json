@@ -1,0 +1,6 @@
+{
+    "PROJECT-NAME": "IStudio",
+    "DESCRIPTION" : "This is a library to be used by IStudio",
+    "AUTHOR" : "RAVINDER SINGH",
+    "DEVELOPER-CONFIG":"devconfig.json"
+}
